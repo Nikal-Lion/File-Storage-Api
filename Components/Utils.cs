@@ -20,10 +20,11 @@ namespace NodeWebApi.Components
         private IDictionary<string, string> _directoryDic;
         private int? maxCacheAge;
         #endregion
+
         /// <summary>
-        /// 
+        /// where the static file(s) directory is located
         /// </summary>
-        /// <returns></returns>
+        /// <value></value>
         internal string StorageDirectory
         {
             get
