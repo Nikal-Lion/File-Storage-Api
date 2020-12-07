@@ -2,4 +2,4 @@
 [oO]bj
 .vscode
 .vs
-appsettings.*
+# appsettings.*
